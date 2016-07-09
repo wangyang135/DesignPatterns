@@ -220,5 +220,5 @@ http://blog.csdn.net/wangyang1354/article/details/51701185
 1. Mediator抽象中介者角色：抽象中介者角色定义统一的接口，用于各同事角色之间的通信。
 2. Concrete Mediator具体中介者角色：具体中介者角色通过协调各同事角色实现写作行为，依赖于各同事角色。
 3. Colleague同事角色：每个同事类的任务中，包括自身需要完成的功能，以及自己完不成要交给中介者进行其余处理的部分功能。
-
+http://blog.csdn.net/wangyang1354/article/details/51866724
 
